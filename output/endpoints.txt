@@ -1,0 +1,2 @@
+https://auth.tesla.com/wsfed/v1/?wa=wsignin1.0&wtrealm=partner-portal&wreply=https%3A%2F%2Fpartners.teslamotors.com%2F_trust%2Fdefault.aspx&wctx=https%3A%2F%2Fpartners.teslamotors.com%2F_layouts%2F15%2FTesla.Energy.PartnerPortal%2FPopup.aspx&Source=%2F_layouts%2F15%2Fportal%2Floginredirect.aspx
+https://auth.tesla.com/wsfed/v1/?wa=wsignin1.0&wtrealm=partner-portal&wreply=https://partners.teslamotors.com/_trust/default.aspx&wctx=https://partners.teslamotors.com/_layouts/15/Tesla.Energy.PartnerPortal/Popup.aspx&prompt=login&Source=/_layouts/15/portal/loginredirect.aspx

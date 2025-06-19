@@ -1,0 +1,8 @@
+https://apigateway-energy-fulfillment-cx-bff-prd.tesla.com
+https://akamai-apigateway-charging-ownership.tesla.com
+https://akamai-apigateway-vfx.tesla.com
+https://teslacmgap01.tesla.com
+https://teslacmgeu01.tesla.com
+https://teslacmgna01.tesla.com
+https://teslacmgus01.tesla.com
+https://teslacmgcn01.tesla.com
