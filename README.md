@@ -31,10 +31,14 @@ python bugreconx.py -i domains.txt
 ## Install
 
 ```bash
+git clone https://github.com/asur2103/BugReconX.git
+cd /BugReconX
 pip install -r requirements.txt
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install -v github.com/OWASP/Amass/v3/...@latest
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/tomnomnom/waybackurls@latest
+
+
 
 
